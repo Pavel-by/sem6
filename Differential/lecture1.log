@@ -1,0 +1,236 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.3)  8 FEB 2021 14:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lecture1.tex
+(./lecture1.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/markdown/markdown.sty
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count172
+\FV@InFile=\read2
+\FV@TabBox=\box45
+\c@FancyVerbLine=\count173
+\FV@StepNumber=\count174
+\FV@OutFile=\write3
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2019/04/09 version 1.21 LaTeX CSV file processing
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
+on.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen137
+\pgfutil@tempdimb=\dimen138
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
+on-lists.tex))
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-late
+x.def
+\pgfutil@abb=\box46
+ (f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.
+tex (f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
+.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfilte
+red.code.tex
+\pgfkeys@tmptoks=\toks19
+)))
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count175
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read3
+\c@csvinputline=\count176
+\c@csvrow=\count177
+\c@csvcol=\count178
+\csv@out=\write4
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/gobble/gobble.sty
+Package: gobble 2019/01/04 v0.2 Provides more gobble macros
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/gobble/gobble.tex))
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/generic/markdown/markdown.tex
+\markdownInputFileStream=\read4
+\markdownOutputFileStream=\write5
+(l.517) markdown.tex info: Using mode 0: Shell escape via write18.
+)
+Package: markdown 2020/03/20 v2.8.2 markdown renderer
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip49
+\plpartopsep=\skip50
+\plitemsep=\skip51
+\plparsep=\skip52
+\pl@lab=\toks20
+)
+\markdownLaTeXCitationsCounter=\count179
+\markdownLaTeXRowCounter=\count180
+\markdownLaTeXRowTotal=\count181
+\markdownLaTeXColumnCounter=\count182
+\markdownLaTeXColumnTotal=\count183
+\markdownLaTeXTable=\toks21
+\markdownLaTeXTableAlignment=\toks22
+\markdownLaTeXTableEnd=\toks23
+)
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfm
+x.def
+File: l3backend-xdvipdfmx.def 2020-08-07 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+) (./lecture1.aux)
+\openout1 = `lecture1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+.
+
+(f:/ProgramFiles/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+ABD: EveryShipout initializing macros
+! You can't use `macro parameter character #' in vertical mode.
+l.7 ^^I#
+         this is in italic*  and _so is this_
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ^^I# this is in italic*  and _
+                                  so is this_
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+! Missing { inserted.
+<to be read again> 
+                   \par 
+l.8 ^^I
+       
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ^^I
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 ^^I
+       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[1
+
+] (./lecture1.aux) ) 
+Here is how much of TeX's memory you used:
+ 3393 strings out of 479699
+ 70142 string characters out of 5886814
+ 306540 words of memory out of 5000000
+ 20618 multiletter control sequences out of 15000+600000
+ 535096 words of font info for 30 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 51i,4n,52p,855b,98s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on lecture1.pdf (1 page).
